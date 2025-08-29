@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 I’m looking to collaborate on:<br>Backend projects<br><br>🌱 I’m currently learning:<br>Golang<br><br>💬 Ask me about:<br>Java, Kotlin, Spring Boot, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br>I love capturing moments 📸
+🔭 I’m currently working on:<br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 I’m looking to collaborate on:<br>Backend projects<br><br>🌱 I’m currently learning:<br>Systems and Scalability<br><br>💬 Ask me about:<br>Java, Kotlin, Spring Boot, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br>I love capturing moments 📸
 
 
 ## 🌐 Socials:
